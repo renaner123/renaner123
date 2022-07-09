@@ -2,7 +2,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/780223861161459774/995349145021862051/octocat-renan.png" width=30% align="right" alt="My cool logo"/>
 
-Sou um estudante de engenharia de telecomunicações cursando a 10º fase (última 🙌) no Instituto Federal de Santa Catarina (IFSC) e atuando como Desenvolvedor de Software jr. no Laboratório de Sistemas Embarcados e Distribuídos (LaSED) IFSC-SJ.        
+Sou um estudante de engenharia de telecomunicações cursando a 10º fase (última 🙌) no Instituto Federal de Santa Catarina (IFSC) e atuando como Desenvolvedor de Software jr. no Laboratório de Sistemas Embarcados e Distribuídos (LaSED) [IFSC-SJ](http://www.lased.ifsc.edu.br).       
         
 ### Tecnologias e Ferramentas que estou estudando atualmente:
 <div>
