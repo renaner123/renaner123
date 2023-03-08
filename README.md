@@ -1,20 +1,27 @@
-### Olá pessoal 👋
+### やあ 👋
 
 <img src="https://cdn.discordapp.com/attachments/780223861161459774/995349145021862051/octocat-renan.png" width=30% align="right" alt="My cool logo"/>
 
-Sou um estudante de engenharia de telecomunicações cursando a 10º fase (última 🙌) no Instituto Federal de Santa Catarina (IFSC) e atuando como Desenvolvedor de Software jr. no Laboratório de Sistemas Embarcados e Distribuídos (LaSED) [IFSC-SJ](http://www.lased.ifsc.edu.br).       
+Sou um engenheiro de telecomunicações formado pelo Instituto Federal de Santa Catarina (IFSC) em 2023, e atualmente atuo como Desenvolvedor de Software jr. no Laboratório de Sistemas Embarcados e Distribuídos ([LaSED](http://www.lased.ifsc.edu.br)) IFSC-SJ no projeto Dispositivo Autorizador Fiscal ([DAF](https://ifsc-lased.github.io/daf/)).
         
-### Tecnologias e Ferramentas que estou estudando atualmente:
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-          
-</div>         
+### Tecnologias e Ferramentas que estudei e/ou estou estudando atualmente:
+<div class="container">
+<p align="left">       
+</a> <a href="https://git-scm.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />  
+<a href="https://docs.github.com/pt" alt="GitHub" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /></a>           
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a> 
+<a href="[https://www.python.org](https://devdocs.io/cpp/)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>      
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a> 
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a> 
+</a> <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />             
+<a href="https://www.docker.com" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> 
+<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a> 
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle database" width="40" height="40" /></a> 
+<a href="https://spec.openapis.org/oas/latest.html" target="_black" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="OpenAPi" width="40" height="40" /> </a>   
+</div>    
 
 ### Contatos:
 
