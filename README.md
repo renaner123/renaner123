@@ -1,6 +1,6 @@
 ### やあ 👋
 
-<img src="https://cdn.discordapp.com/attachments/780223861161459774/995349145021862051/octocat-renan.png" width=30% align="right" alt="My cool logo"/>
+<img src="https://cdn.discordapp.com/attachments/1148360129587183657/1152323949632442489/octocat-1694805488380.png" width=30% align="right" alt="My cool logo"/>
 
 Sou um engenheiro de telecomunicações formado pelo Instituto Federal de Santa Catarina (IFSC) em 2023, e atualmente atuo como Desenvolvedor de Software jr. no Laboratório de Sistemas Embarcados e Distribuídos ([LaSED](http://www.lased.ifsc.edu.br)) IFSC-SJ no projeto Dispositivo Autorizador Fiscal ([DAF](https://ifsc-lased.github.io/daf/)).
         
