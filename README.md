@@ -2,9 +2,26 @@
 
 <img src="https://cdn.discordapp.com/attachments/1148360129587183657/1152323949632442489/octocat-1694805488380.png" width=30% align="right" alt="My cool logo"/>
 
-Sou um engenheiro de telecomunicações formado pelo Instituto Federal de Santa Catarina (IFSC) em 2023, e atualmente atuo como Desenvolvedor de Software jr. no Laboratório de Sistemas Embarcados e Distribuídos ([LaSED](http://www.lased.ifsc.edu.br)) IFSC-SJ no projeto Dispositivo Autorizador Fiscal ([DAF](https://ifsc-lased.github.io/daf/)).
-        
-### Tecnologias e Ferramentas que estudei e/ou estou estudando atualmente:
+Sou um engenheiro de telecomunicações formado pelo Instituto Federal de Santa Catarina (IFSC) e atualmente atuo como Analista de Desenvolvimento no Laboratório de Sistemas Embarcados e Distribuídos ([LaSED](http://www.lased.ifsc.edu.br)) do IFSC-SJ, no projeto Dispositivo Autorizador Fiscal ([DAF](https://ifsc-lased.github.io/daf/)).
+
+
+ ### Atualmente trabalhando com:
+
+- API RESTful
+- Docker
+- Documentação técnica
+- Gestão de projetos
+- Java
+- Linux embarcado customizado (customizado com Buildroot)
+- MySQL
+- OpenAPI
+- Pesquisa e desenvolvimento (P&D)
+- Python
+- REST
+
+
+### Tecnologias e ferramentas que já trabalhei:
+
 <div class="container">
 <p align="left">       
 </a> <a href="https://git-scm.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />  
@@ -23,14 +40,14 @@ Sou um engenheiro de telecomunicações formado pelo Instituto Federal de Santa 
 <a href="https://spec.openapis.org/oas/latest.html" target="_black" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="OpenAPi" width="40" height="40" /> </a>   
 </div>    
 
-### Contatos:
+
+
+
+### Entre em contato comigo! 📭
 
 <div>
 <a href = "mailto:rrenanrds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renanrodolfo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>        
-
-  
-![Snake animation](https://github.com/renaner123/renaner123/blob/output/github-contribution-grid-snake.svg)
 
 
