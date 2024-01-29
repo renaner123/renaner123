@@ -41,8 +41,6 @@ Sou um engenheiro de telecomunicações formado pelo Instituto Federal de Santa 
 </div>    
 
 
-
-
 ### Entre em contato comigo! 📭
 
 <div>
@@ -50,4 +48,6 @@ Sou um engenheiro de telecomunicações formado pelo Instituto Federal de Santa 
 <a href="https://www.linkedin.com/in/renanrodolfo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>        
 
+### Curiosidade
 
+O nome de usuário Renaner123 era para ser um palíndromo, mas deu errado 😅. Renaner123 <=> 321renaneR
