@@ -1,6 +1,6 @@
 ### やあ 👋
 
-<img src="https://cdn.discordapp.com/attachments/1131620272328429748/1214405976674009179/octocat_Renan_test.png?ex=65f8feb3&is=65e689b3&hm=ebbcaed2ac5d271de69da8cc18b5b253e9f40de46d9e4477730ac1737e3535c4&" width=30% align="right" alt="My cool logo"/>
+<img src="figs/octocat.png" width=30% align="right" alt="My cool logo"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back-end+Developer;Continous+Learning)](https://git.io/typing-svg)
